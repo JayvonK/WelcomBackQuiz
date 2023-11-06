@@ -2,3 +2,16 @@ body {
     background-color: slategray;
 }
 
+.even {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+@font-face {
+    font-family: Font;
+    src: url(../assets/EduTASBeginner-VariableFont_wght.ttf);
+}
+
+.font {
+    font-family: Font;
+}
